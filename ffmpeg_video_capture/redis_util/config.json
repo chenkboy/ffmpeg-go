@@ -1,0 +1,8 @@
+{
+  "host": "localhost:6379",
+  "maxIdle": 30,
+  "maxActive": 60,
+  "idleTimeout": 30,
+  "password": "123456",
+  "db": 0
+}
